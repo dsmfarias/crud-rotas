@@ -1,0 +1,58 @@
+[
+    {
+        "Id": 1,
+        "IdAeroportoOrigem": 1,
+        "NomeAeroportoOrigem": "GRU",
+        "IdAeroportoDestino": 2,
+        "NomeAeroportoDestino": "BRC",
+        "Valor": 10
+    },
+    {
+        "Id": 2,
+        "IdAeroportoOrigem": 2,
+        "NomeAeroportoOrigem": "BRC",
+        "IdAeroportoDestino": 3,
+        "NomeAeroportoDestino": "SCL",
+        "Valor": 5
+    },
+    {
+        "Id": 3,
+        "IdAeroportoOrigem": 1,
+        "NomeAeroportoOrigem": "GRU",
+        "IdAeroportoDestino": 4,
+        "NomeAeroportoDestino": "CDG",
+        "Valor": 75
+    },
+    {
+        "Id": 4,
+        "IdAeroportoOrigem": 1,
+        "NomeAeroportoOrigem": "GRU",
+        "IdAeroportoDestino": 3,
+        "NomeAeroportoDestino": "SCL",
+        "Valor": 20
+    },
+    {
+        "Id": 5,
+        "IdAeroportoOrigem": 1,
+        "NomeAeroportoOrigem": "GRU",
+        "IdAeroportoDestino": 5,
+        "NomeAeroportoDestino": "ORL",
+        "Valor": 56
+    },
+    {
+        "Id": 6,
+        "IdAeroportoOrigem": 5,
+        "NomeAeroportoOrigem": "ORL",
+        "IdAeroportoDestino": 4,
+        "NomeAeroportoDestino": "CDG",
+        "Valor": 5
+    },
+    {
+        "Id": 7,
+        "IdAeroportoOrigem": 3,
+        "NomeAeroportoOrigem": "SCL",
+        "IdAeroportoDestino": 5,
+        "NomeAeroportoDestino": "ORL",
+        "Valor": 20
+    }
+]

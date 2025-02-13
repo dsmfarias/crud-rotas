@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotasAreasOtimizadas.Api", "RotasAreasOtimizadas.Api.csproj", "{5A68B76B-5A69-44A6-AE4A-455CAB2F54B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotasAereasOtimizadas.Application", "..\RotasAereasOtimizadas.Application\RotasAereasOtimizadas.Application.csproj", "{CE200721-566F-4C0E-A3AB-75E79CDD908A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotasAereasOtimizadas.Domain", "..\RotasAereasOtimizadas.Domain\RotasAereasOtimizadas.Domain.csproj", "{0BAC5DAF-E008-4F30-B786-E7D1728A6AEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotasAereasOtimizadas.Infrastructure", "..\RotasAereasOtimizadas.Infrastructure\RotasAereasOtimizadas.Infrastructure.csproj", "{B95737DC-686F-45F1-AF34-1224A4B0C8EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotasAereasOtimizadas.Tests", "..\RotasAereasOtimizadas.Tests\RotasAereasOtimizadas.Tests.csproj", "{500DADF5-4533-49F3-AB14-04CB0933DD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A68B76B-5A69-44A6-AE4A-455CAB2F54B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A68B76B-5A69-44A6-AE4A-455CAB2F54B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A68B76B-5A69-44A6-AE4A-455CAB2F54B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A68B76B-5A69-44A6-AE4A-455CAB2F54B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE200721-566F-4C0E-A3AB-75E79CDD908A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE200721-566F-4C0E-A3AB-75E79CDD908A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE200721-566F-4C0E-A3AB-75E79CDD908A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE200721-566F-4C0E-A3AB-75E79CDD908A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BAC5DAF-E008-4F30-B786-E7D1728A6AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BAC5DAF-E008-4F30-B786-E7D1728A6AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BAC5DAF-E008-4F30-B786-E7D1728A6AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BAC5DAF-E008-4F30-B786-E7D1728A6AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B95737DC-686F-45F1-AF34-1224A4B0C8EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B95737DC-686F-45F1-AF34-1224A4B0C8EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B95737DC-686F-45F1-AF34-1224A4B0C8EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B95737DC-686F-45F1-AF34-1224A4B0C8EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500DADF5-4533-49F3-AB14-04CB0933DD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500DADF5-4533-49F3-AB14-04CB0933DD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500DADF5-4533-49F3-AB14-04CB0933DD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500DADF5-4533-49F3-AB14-04CB0933DD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF42437F-6522-4A47-9919-4DA8F93F3507}
+	EndGlobalSection
+EndGlobal
